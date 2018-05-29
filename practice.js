@@ -1,4 +1,4 @@
-//MY NAME IS BRANDON CHUNG
+//MY NAME IS BRANDON CHUNGG
 /* 
   Once you complete a problem, refresh ./SpecRunner.html in your browser and check to see if the problem's test(s) are passing.
   Passed tests will be indicated by a green circle.
@@ -17,8 +17,6 @@
 
 //Code here
 
-
-
 ////////// PROBLEM 2 //////////
 
 /*
@@ -28,23 +26,17 @@
 
 //Code here
 
-
-
 /*
   After you've made your object, add another key named 'car' with the value being your favorite car and then another key named 'brand' with the value being your favorite brand.
 */
 
 //Code here
 
-
-
 /*
   Now change the value of the food key in your favoriteThings object to be 'Chicken Nuggets' and change the value of the book key in your favoriteThings object to be 'Harry Potter'.
 */
 
 //Code here
-
-
 
 ////////// PROBLEM 3 //////////
 
@@ -58,15 +50,11 @@
 
 //Code here
 
-
-
 /*
   After you do the above, alert your entire backPack object.
 */
 
 //Code here
-
-
 
 /*
 You probably noticed that it just alerted [object Object].
@@ -75,8 +63,6 @@ Instead, console.log your whole backPack object and then check out the console.
 */
 
 //Code here
-
-
 
 ////////// PROBLEM 4 //////////
 
@@ -99,8 +85,6 @@ var user2 = {
 
 //Code Here
 
-
-
 ////////// EXTRA PRACTICE PROBLEMS BELOW //////////
 
 ////////// PROBLEM 5 //////////
@@ -111,8 +95,6 @@ var user2 = {
 
 //Code Here
 
-
-
 /*
   Now add two methods (functions that are properties on objects) to your methodCollection object. 
   One called 'alertHello' which alerts 'hello' and another method called 'logHello' which logs 'hello' to the console. 
@@ -120,15 +102,11 @@ var user2 = {
 
 //Code Here
 
-
-
 /*
   Now call your alertHello and logHello methods.
 */
 
 //Code Here
-
-
 
 ////////// PROBLEM 6 //////////
 
@@ -139,8 +117,6 @@ var user2 = {
 
 //Code Here
 
-
-
 ////////// PROBLEM 7 //////////
 
 /*
@@ -149,5 +125,3 @@ var user2 = {
 */
 
 //Code Here
-
-
